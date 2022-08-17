@@ -1,0 +1,40 @@
+@media only screen and (max-width: 780px) {
+    .logo-icon-grid-container {margin-top: 2rem;}
+
+    .banner-one-container {
+        padding: 0;
+        margin: 0;
+    }
+
+    .why-font-container {
+        margin: 8rem 0;
+        margin-top: 0;
+    }
+
+    .dash { margin: 0 0.188rem 0 0.313rem;}
+
+    .discript-container { 
+        width: auto;
+        justify-content: space-evenly;
+    }
+
+    .banner-two {
+        height: auto;
+        width: 40rem;
+    }
+
+    .testimonial-container { 
+    margin: 8rem;
+    gap: 2rem;
+}
+
+    .hubspot-img { margin: 0;}
+
+    .company-logos { margin-right: 4.688rem;}
+
+    .percs-container {gap: 1.25rem;}
+}
+
+@media only screen and (max-width: 680px) {
+    .banner-two { width: 30rem;}
+}
